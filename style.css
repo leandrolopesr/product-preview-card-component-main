@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+
+body{
+    margin: 0;
+}
+.pai{
+
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color:   hsl(30, 38%, 92%);
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+   
+}
+
+.attribution{
+    
+    height: 480px;
+    width: 650px;
+    border-radius: 8px;
+    background-color: rgb(255, 255, 255);
+   
+    
+
+}
+
+
+
+.img{
+    height: 480px;
+    width: 325px;
+    border-radius: 8px 0px 0px 8px;
+}
+
+h2{
+
+
+    width: 240px;
+    margin-top: -68%;
+    margin-left: 292px;
+    font-family: 'Montserrat', sans-serif;
+    color:  hsl(228, 12%, 48%);
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+
+}
+
+h1{
+
+    font-size: 25pt;
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    color: hsl(212, 21%, 14%);
+    width: 240px;
+    height: 120px;
+    text-align: left;
+    margin-left: 361px;
+
+
+}
+
+.paragraf{
+
+    width: 240px;
+    height: 90px;
+    margin-left: 361px;
+    font-family: 'Montserrat', sans-serif;
+    color:  hsl(228, 12%, 48%);
+    font-weight: 500;
+    font-size: 14px;
+    text-align: start;
+    line-height: 1.6;
+}
+
+.realValue{
+
+    margin-left: 362px;
+    margin-top: 25px;
+    
+    width: 135px;
+    height: 50px;
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 25pt;
+    color:  hsl(120, 63%, 23%);
+    
+       
+}
+.discount{
+    margin-left: 520px;
+    margin-top: -70px;
+    
+    width: 60px;
+    height: 15px;
+    font-size: 11pt;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color:  hsl(228, 12%, 48%);
+}
+
+button{
+    
+    width: 250px;
+    height: 50px;
+    margin-left: 330px;
+    margin-top: 22px;
+    border: none;
+    border-radius: 7px;
+    background-color: hsl(120, 63%, 23%);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+svg{
+    display: flex;
+    background-color: black;
+    margin-top: -33px;
+    margin-left: 425px;
+
+    
+   
+}
