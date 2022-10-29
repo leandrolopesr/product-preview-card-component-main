@@ -118,6 +118,10 @@ button{
     font-weight: 500;
 }
 
+button:hover{
+    background-color: hsl(120, 60%, 16%);
+}
+
 svg{
     display: flex;
     background-color: black;
